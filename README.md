@@ -1,1 +1,2 @@
 # FVSData
+This is an open source project, so please contribute or tell us your suggestions! The purpose of this project is to make it easier to extract data from different file types (currently supports csv and xlsx files). It was originally made for the NJ State Department of Forestry, to make it easier to deal with simulation programs that require these files as inputs. This tool helps the foresters work more efficiently, and we are currently adding more functionalities to it. 
